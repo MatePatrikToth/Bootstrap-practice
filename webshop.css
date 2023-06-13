@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Roboto&family=Roboto+Slab&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=PT+Serif&family=Roboto&family=Roboto+Slab&display=swap');
+
+
+body{
+    font-family: 'PT Serif', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Anton', sans-serif;
+font-family: 'PT Serif', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+
+/*Navbar*/
+
+.navbar-brand{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/*Törzs*/
+
+
+/*Kártyák*/
+
+.card{
+    box-shadow: 5px 5px 10px grey;
+}
+
+.card:hover{
+    box-shadow: 5px 5px 15px rgb(66, 66, 66);
+}
+
+/*Lablec*/
+
